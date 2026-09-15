@@ -13,6 +13,11 @@
   <img src="https://img.shields.io/badge/PHP-8.3-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/MariaDB-Included-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB">
 </p>
+<br>
+<div align="center">
+  <img src="img.png" alt="CabaStack Arayüzü" width="800">
+</div>
+<br>
 
 <hr>
 
