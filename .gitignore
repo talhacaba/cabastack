@@ -1,0 +1,13 @@
+# Rust Derleme Klasörü (O 9 GB'lık canavar)
+src-tauri/target/
+
+# Node.js Klasörleri (Kara Delikler)
+node_modules/
+src-tauri/node_modules/
+dist/
+build/
+
+# Sistem ve Editör Dosyaları
+.vscode/
+.DS_Store
+*.log
